@@ -1,7 +1,6 @@
-<a id="cover-page"></a>
-<div align="center">
+# Cover Page {#cover-page}
 
-<img src="../assets/cover-page.jpg" alt="Clinical Informatics - A Provider's Journey Through Healthcare Data" width="500" style="max-width: 100%; height: auto;" />
+![Clinical Informatics - A Provider's Journey Through Healthcare Data](../assets/cover-page.jpg)
 
 ---
 
@@ -162,128 +161,128 @@ All other trademarks are the property of their respective owners.
 ## Part I: Patient Access & Registration
 
 ### [Chapter 1: The Patient Arrives](#chapter-1-the-patient-arrives)
-- [1.1 Clinical Narrative](#11-clinical-narrative)
-- [1.2 EHR Data Population](#12-ehr-data-population)
-- [1.3 Standards & Ontology Mapping](#13-standards-ontology-mapping)
-- [1.4 Cohort Design & Phenotyping](#14-cohort-design-phenotyping)
-- [1.5 Technology Solution Layer](#15-technology-solution-layer)
-- [1.6 Chapter 1 Mindmap](#16-chapter-1-mindmap-patient-registration-workflow)
-- [1.7 Chapter 1 Summary](#17-chapter-summary-key-takeaways)
-- [1.8 Interesting Facts](#18-interesting-facts)
-- [1.9 References & Sources](#19-references-sources)
+- [1.1 Clinical Narrative](#clinical-narrative)
+- [1.2 EHR Data Population](#ehr-data-population)
+- [1.3 Standards & Ontology Mapping](#standards-ontology-mapping)
+- [1.4 Cohort Design & Phenotyping](#cohort-design-phenotyping)
+- [1.5 Technology Solution Layer](#technology-solution-layer)
+- [1.6 Chapter 1 Mindmap](#chapter-1-mindmap-patient-registration-workflow)
+- [1.7 Chapter 1 Summary](#chapter-summary-key-takeaways)
+- [1.8 Interesting Facts](#interesting-facts)
+- [1.9 References & Sources](#references-sources)
 
 ---
 
 ## Part II: Clinical Documentation & Diagnosis
 
 ### [Chapter 2: The Clinical Encounter & Documentation](#chapter-2-the-clinical-encounter-documentation)
-- [2.1 Clinical Narrative](#21-clinical-narrative)
-- [2.2 EHR Data Population](#22-ehr-data-population)
-- [2.3 Clinical Terminology Mapping](#23-clinical-terminology-mapping)
-- [2.4 OMOP CDM Mapping](#24-omop-cdm-mapping)
-- [2.5 Cohort Design & Phenotyping](#25-cohort-design-phenotyping)
-- [2.6 Chapter 2 Mindmap](#26-chapter-2-mindmap-clinical-encounter-workflow)
-- [2.7 Chapter 2 Summary](#27-chapter-summary-key-takeaways)
-- [2.8 Interesting Facts](#28-interesting-facts)
-- [2.9 References & Sources](#29-references-sources)
+- [2.1 Clinical Narrative](#clinical-narrative)
+- [2.2 EHR Data Population](#ehr-data-population)
+- [2.3 Clinical Terminology Mapping](#clinical-terminology-mapping)
+- [2.4 OMOP CDM Mapping](#omop-cdm-mapping)
+- [2.5 Cohort Design & Phenotyping](#cohort-design-phenotyping)
+- [2.6 Chapter 2 Mindmap](#chapter-2-mindmap-clinical-encounter-workflow)
+- [2.7 Chapter 2 Summary](#chapter-summary-key-takeaways)
+- [2.8 Interesting Facts](#interesting-facts)
+- [2.9 References & Sources](#references-sources)
 
 ### [Chapter 3: Diagnostic Workup & Orders](#chapter-3-diagnostic-workup-orders)
-- [3.1 Clinical Narrative](#31-clinical-narrative)
-- [3.2 Lab Results Return](#32-lab-results-return)
-- [3.3 LOINC Deep Dive](#33-loinc-deep-dive)
-- [3.4 FHIR Diagnostic Report](#34-fhir-diagnostic-report)
-- [3.5 OMOP CDM Mapping](#35-omop-cdm-mapping)
-- [3.6 Chapter 3 Mindmap](#36-chapter-3-mindmap-diagnostic-workup-workflow)
-- [3.7 Chapter 3 Summary](#37-chapter-summary-key-takeaways)
-- [3.8 Interesting Facts](#38-interesting-facts)
-- [3.9 References & Sources](#39-references-sources)
+- [3.1 Clinical Narrative](#clinical-narrative)
+- [3.2 Lab Results Return](#lab-results-return)
+- [3.3 LOINC Deep Dive](#loinc-deep-dive)
+- [3.4 FHIR Diagnostic Report](#fhir-diagnostic-report)
+- [3.5 OMOP CDM Mapping](#omop-cdm-mapping)
+- [3.6 Chapter 3 Mindmap](#chapter-3-mindmap-diagnostic-workup-workflow)
+- [3.7 Chapter 3 Summary](#chapter-summary-key-takeaways)
+- [3.8 Interesting Facts](#interesting-facts)
+- [3.9 References & Sources](#references-sources)
 
 ---
 
 ## Part III: Care Coordination & Treatment
 
 ### [Chapter 4: Specialty Referral & Care Coordination](#chapter-4-specialty-referral-care-coordination)
-- [4.1 Clinical Narrative](#41-clinical-narrative)
-- [4.2 Care Coordination Documentation](#42-care-coordination-documentation)
-- [4.3 Provider Perspective](#43-provider-perspective)
-- [4.4 Chapter 4 Mindmap](#44-chapter-4-mindmap-care-coordination)
-- [4.5 Chapter 4 Summary](#45-chapter-4-summary)
-- [4.6 Interesting Facts](#46-interesting-facts)
-- [4.7 References & Sources](#47-references-sources)
+- [4.1 Clinical Narrative](#clinical-narrative)
+- [4.2 Care Coordination Documentation](#care-coordination-documentation)
+- [4.3 Provider Perspective](#provider-perspective)
+- [4.4 Chapter 4 Mindmap](#chapter-4-mindmap-care-coordination)
+- [4.5 Chapter 4 Summary](#chapter-4-summary)
+- [4.6 Interesting Facts](#interesting-facts)
+- [4.7 References & Sources](#references-sources)
 
 ### [Chapter 5: Medication Management & Pharmacovigilance](#chapter-5-medication-management-pharmacovigilance)
-- [5.1 Clinical Narrative](#51-clinical-narrative)
-- [5.2 RxNorm Hierarchy](#52-rxnorm-hierarchy)
-- [5.3 OMOP Drug Exposure](#53-omop-drug-exposure)
-- [5.4 Pharmacovigilance Monitoring](#54-pharmacovigilance-monitoring)
-- [5.5 Chapter 5 Mindmap](#55-chapter-5-mindmap-medication-management)
-- [5.6 Chapter 5 Summary](#56-chapter-5-summary)
-- [5.7 Interesting Facts](#57-interesting-facts)
-- [5.8 References & Sources](#58-references-sources)
+- [5.1 Clinical Narrative](#clinical-narrative)
+- [5.2 RxNorm Hierarchy](#rxnorm-hierarchy)
+- [5.3 OMOP Drug Exposure](#omop-drug-exposure)
+- [5.4 Pharmacovigilance Monitoring](#pharmacovigilance-monitoring)
+- [5.5 Chapter 5 Mindmap](#chapter-5-mindmap-medication-management)
+- [5.6 Chapter 5 Summary](#chapter-5-summary)
+- [5.7 Interesting Facts](#interesting-facts)
+- [5.8 References & Sources](#references-sources)
 
 ---
 
 ## Part IV: Clinical Intelligence & Quality
 
 ### [Chapter 6: Clinical Decision Support & Risk Stratification](#chapter-6-clinical-decision-support-risk-stratification)
-- [6.1 Clinical Narrative](#61-clinical-narrative)
-- [6.2 Risk Scores Implementation](#62-risk-scores-implementation)
-- [6.3 Chapter 6 Summary](#63-chapter-6-summary)
-- [6.4 Interesting Facts](#64-interesting-facts)
-- [6.5 References & Sources](#65-references-sources)
+- [6.1 Clinical Narrative](#clinical-narrative)
+- [6.2 Risk Scores Implementation](#risk-scores-implementation)
+- [6.3 Chapter 6 Summary](#chapter-6-summary)
+- [6.4 Interesting Facts](#interesting-facts)
+- [6.5 References & Sources](#references-sources)
 
 ### [Chapter 7: Quality Measurement & Population Health](#chapter-7-quality-measurement-population-health)
-- [7.1 Clinical Narrative](#71-clinical-narrative)
-- [7.2 HEDIS Quality Measure Implementation](#72-hedis-quality-measure-implementation)
-- [7.3 Chapter 7 Summary](#73-chapter-7-summary)
-- [7.4 Interesting Facts](#74-interesting-facts)
-- [7.5 References & Sources](#75-references-sources)
+- [7.1 Clinical Narrative](#clinical-narrative)
+- [7.2 HEDIS Quality Measure Implementation](#hedis-quality-measure-implementation)
+- [7.3 Chapter 7 Summary](#chapter-7-summary)
+- [7.4 Interesting Facts](#interesting-facts)
+- [7.5 References & Sources](#references-sources)
 
 ---
 
 ## Part V: Operations & Outcomes
 
 ### [Chapter 8: Billing, Coding & Revenue Cycle](#chapter-8-billing-coding-revenue-cycle)
-- [8.1 Clinical Narrative](#81-clinical-narrative)
-- [8.2 Complete Billing Ontology Reference](#82-complete-billing-ontology-reference)
-- [8.3 Claims Generation](#83-claims-generation)
-- [8.4 Chapter 8 Summary](#84-chapter-8-summary)
-- [8.5 Interesting Facts](#85-interesting-facts)
-- [8.6 References & Sources](#86-references-sources)
+- [8.1 Clinical Narrative](#clinical-narrative)
+- [8.2 Complete Billing Ontology Reference](#complete-billing-ontology-reference)
+- [8.3 Claims Generation](#claims-generation)
+- [8.4 Chapter 8 Summary](#chapter-8-summary)
+- [8.5 Interesting Facts](#interesting-facts)
+- [8.6 References & Sources](#references-sources)
 
 ### [Chapter 9: Care Transitions & Discharge](#chapter-9-care-transitions-discharge)
-- [9.1 Clinical Narrative](#91-clinical-narrative)
-- [9.2 Discharge Summary](#92-discharge-summary)
-- [9.3 Chapter 9 Summary](#93-chapter-9-summary)
-- [9.4 Interesting Facts](#94-interesting-facts)
-- [9.5 References & Sources](#95-references-sources)
+- [9.1 Clinical Narrative](#clinical-narrative)
+- [9.2 Discharge Summary](#discharge-summary)
+- [9.3 Chapter 9 Summary](#chapter-9-summary)
+- [9.4 Interesting Facts](#interesting-facts)
+- [9.5 References & Sources](#references-sources)
 
 ### [Chapter 10: Outcomes, Research & Continuous Improvement](#chapter-10-outcomes-research-continuous-improvement)
-- [10.1 Six-Month Follow-Up](#101-six-month-follow-up)
-- [10.2 Patient-Level Prediction](#102-patient-level-prediction)
-- [10.3 Research Applications](#103-research-applications)
-- [10.4 Lessons Learned: Maria's Journey](#104-lessons-learned-marias-journey)
-- [10.5 Chapter 10 Summary](#105-chapter-10-summary)
-- [10.6 Interesting Facts](#106-interesting-facts)
-- [10.7 References & Sources](#107-references-sources)
+- [10.1 Six-Month Follow-Up](#six-month-follow-up)
+- [10.2 Patient-Level Prediction](#patient-level-prediction)
+- [10.3 Research Applications](#research-applications)
+- [10.4 Lessons Learned: Maria's Journey](#lessons-learned-marias-journey)
+- [10.5 Chapter 10 Summary](#chapter-10-summary)
+- [10.6 Interesting Facts](#interesting-facts)
+- [10.7 References & Sources](#references-sources)
 
 ---
 
 ## Appendices
 
 - [Appendix A: Complete Terminology Reference](#appendix-a-complete-terminology-reference)
-  - [A.1 ICD-10-CM Structure](#a1-icd-10-cm-structure)
-  - [A.2 CPT Code Categories](#a2-cpt-code-categories)
-  - [A.3 LOINC Code Axes](#a3-loinc-code-axes)
+  - [A.1 ICD-10-CM Structure](#a.1-icd-10-cm-structure)
+  - [A.2 CPT Code Categories](#a.2-cpt-code-categories)
+  - [A.3 LOINC Code Axes](#a.3-loinc-code-axes)
 - [Appendix B: FHIR Resource Mapping Guide](#appendix-b-fhir-resource-mapping-guide)
-  - [B.1 Core Clinical Resources](#b1-core-clinical-resources)
-  - [B.2 HL7 v2 to FHIR Mapping](#b2-hl7-v2-to-fhir-mapping)
+  - [B.1 Core Clinical Resources](#b.1-core-clinical-resources)
+  - [B.2 HL7 v2 to FHIR Mapping](#b.2-hl7-v2-to-fhir-mapping)
 - [Appendix C: OMOP CDM Quick Reference](#appendix-c-omop-cdm-quick-reference)
-  - [C.1 Clinical Data Tables](#c1-clinical-data-tables)
-  - [C.2 Vocabulary Tables](#c2-vocabulary-tables)
+  - [C.1 Clinical Data Tables](#c.1-clinical-data-tables)
+  - [C.2 Vocabulary Tables](#c.2-vocabulary-tables)
 - [Appendix D: Billing Code Crosswalk](#appendix-d-billing-code-crosswalk)
-  - [D.1 Diagnosis Mapping](#d1-diagnosis-mapping-icd-10-to-snomed-to-omop)
-  - [D.2 Procedure Mapping](#d2-procedure-mapping-cpt-to-snomed-to-omop)
+  - [D.1 Diagnosis Mapping](#d.1-diagnosis-mapping-icd-10-to-snomed-to-omop)
+  - [D.2 Procedure Mapping](#d.2-procedure-mapping-cpt-to-snomed-to-omop)
 
 ---
 
@@ -303,32 +302,32 @@ All other trademarks are the property of their respective owners.
 
 | Table # | Title | Chapter | Section |
 |:-------:|:------|:-------:|:--------|
-| **Table 1.1** | Patient Demographics Data Elements | Ch. 1 | [§1.3 Standards & Ontology](#13-standards-ontology-mapping) |
-| **Table 1.2** | Insurance Eligibility Response (270/271) | Ch. 1 | [§1.3 Standards & Ontology](#13-standards-ontology-mapping) |
-| **Table 1.3** | Master Patient Index Fields | Ch. 1 | [§1.4 Cohort Design](#14-cohort-design-phenotyping) |
-| **Table 1.4** | OMOP Person Table Mapping | Ch. 1 | [§1.4 Cohort Design](#14-cohort-design-phenotyping) |
-| **Table 2.1** | Vital Signs with LOINC Codes | Ch. 2 | [§2.3 Terminology Mapping](#23-clinical-terminology-mapping) |
-| **Table 2.2** | ICD-10-CM to SNOMED CT Mapping | Ch. 2 | [§2.3 Terminology Mapping](#23-clinical-terminology-mapping) |
-| **Table 2.3** | OMOP Condition Occurrence Fields | Ch. 2 | [§2.4 OMOP CDM Mapping](#24-omop-cdm-mapping) |
-| **Table 3.1** | Laboratory Tests Ordered | Ch. 3 | [§3.1 Clinical Narrative](#31-clinical-narrative) |
-| **Table 3.2** | LOINC Panel Components | Ch. 3 | [§3.3 LOINC Deep Dive](#33-loinc-deep-dive) |
-| **Table 3.3** | Lab Results with Reference Ranges | Ch. 3 | [§3.2 Lab Results Return](#32-lab-results-return) |
-| **Table 4.1** | Referral Documentation Elements | Ch. 4 | [§4.1 Clinical Narrative](#41-clinical-narrative) |
-| **Table 4.2** | Care Coordination Checklist | Ch. 4 | [§4.2 Care Coordination](#42-care-coordination-documentation) |
-| **Table 5.1** | Medication List with RxNorm Codes | Ch. 5 | [§5.1 Clinical Narrative](#51-clinical-narrative) |
-| **Table 5.2** | Drug Interaction Severity Levels | Ch. 5 | [§5.4 Pharmacovigilance](#54-pharmacovigilance-monitoring) |
-| **Table 5.3** | OMOP Drug Exposure Fields | Ch. 5 | [§5.3 OMOP Drug Exposure](#53-omop-drug-exposure) |
-| **Table 6.1** | CHA₂DS₂-VASc Score Components | Ch. 6 | [§6.1 Clinical Narrative](#61-clinical-narrative) |
-| **Table 6.2** | HAS-BLED Score Components | Ch. 6 | [§6.1 Clinical Narrative](#61-clinical-narrative) |
-| **Table 6.3** | Maria's Risk Stratification Results | Ch. 6 | [§6.2 Risk Scores](#62-risk-scores-implementation) |
-| **Table 7.1** | HEDIS Blood Pressure Control Measure | Ch. 7 | [§7.2 HEDIS Quality Measure](#72-hedis-quality-measure-implementation) |
-| **Table 7.2** | Quality Gap Analysis | Ch. 7 | [§7.2 HEDIS Quality Measure](#72-hedis-quality-measure-implementation) |
-| **Table 8.1** | CPT Codes for Maria's Encounters | Ch. 8 | [§8.2 Billing Ontology](#82-complete-billing-ontology-reference) |
-| **Table 8.2** | ICD-10-CM Diagnosis Codes | Ch. 8 | [§8.2 Billing Ontology](#82-complete-billing-ontology-reference) |
-| **Table 8.3** | Revenue Cycle Summary | Ch. 8 | [§8.3 Claims Generation](#83-claims-generation) |
-| **Table 9.1** | Discharge Medication Reconciliation | Ch. 9 | [§9.2 Discharge Summary](#92-discharge-summary) |
-| **Table 10.1** | Six-Month Outcome Metrics | Ch. 10 | [§10.1 Six-Month Follow-Up](#101-six-month-follow-up) |
-| **Table 10.2** | OMOP Cohort Definition | Ch. 10 | [§10.2 Patient-Level Prediction](#102-patient-level-prediction) |
+| **Table 1.1** | Patient Demographics Data Elements | Ch. 1 | [§1.3 Standards & Ontology](#standards-ontology-mapping) |
+| **Table 1.2** | Insurance Eligibility Response (270/271) | Ch. 1 | [§1.3 Standards & Ontology](#standards-ontology-mapping) |
+| **Table 1.3** | Master Patient Index Fields | Ch. 1 | [§1.4 Cohort Design](#cohort-design-phenotyping) |
+| **Table 1.4** | OMOP Person Table Mapping | Ch. 1 | [§1.4 Cohort Design](#cohort-design-phenotyping) |
+| **Table 2.1** | Vital Signs with LOINC Codes | Ch. 2 | [§2.3 Terminology Mapping](#clinical-terminology-mapping) |
+| **Table 2.2** | ICD-10-CM to SNOMED CT Mapping | Ch. 2 | [§2.3 Terminology Mapping](#clinical-terminology-mapping) |
+| **Table 2.3** | OMOP Condition Occurrence Fields | Ch. 2 | [§2.4 OMOP CDM Mapping](#omop-cdm-mapping) |
+| **Table 3.1** | Laboratory Tests Ordered | Ch. 3 | [§3.1 Clinical Narrative](#clinical-narrative) |
+| **Table 3.2** | LOINC Panel Components | Ch. 3 | [§3.3 LOINC Deep Dive](#loinc-deep-dive) |
+| **Table 3.3** | Lab Results with Reference Ranges | Ch. 3 | [§3.2 Lab Results Return](#lab-results-return) |
+| **Table 4.1** | Referral Documentation Elements | Ch. 4 | [§4.1 Clinical Narrative](#clinical-narrative) |
+| **Table 4.2** | Care Coordination Checklist | Ch. 4 | [§4.2 Care Coordination](#care-coordination-documentation) |
+| **Table 5.1** | Medication List with RxNorm Codes | Ch. 5 | [§5.1 Clinical Narrative](#clinical-narrative) |
+| **Table 5.2** | Drug Interaction Severity Levels | Ch. 5 | [§5.4 Pharmacovigilance](#pharmacovigilance-monitoring) |
+| **Table 5.3** | OMOP Drug Exposure Fields | Ch. 5 | [§5.3 OMOP Drug Exposure](#omop-drug-exposure) |
+| **Table 6.1** | CHA₂DS₂-VASc Score Components | Ch. 6 | [§6.1 Clinical Narrative](#clinical-narrative) |
+| **Table 6.2** | HAS-BLED Score Components | Ch. 6 | [§6.1 Clinical Narrative](#clinical-narrative) |
+| **Table 6.3** | Maria's Risk Stratification Results | Ch. 6 | [§6.2 Risk Scores](#risk-scores-implementation) |
+| **Table 7.1** | HEDIS Blood Pressure Control Measure | Ch. 7 | [§7.2 HEDIS Quality Measure](#hedis-quality-measure-implementation) |
+| **Table 7.2** | Quality Gap Analysis | Ch. 7 | [§7.2 HEDIS Quality Measure](#hedis-quality-measure-implementation) |
+| **Table 8.1** | CPT Codes for Maria's Encounters | Ch. 8 | [§8.2 Billing Ontology](#complete-billing-ontology-reference) |
+| **Table 8.2** | ICD-10-CM Diagnosis Codes | Ch. 8 | [§8.2 Billing Ontology](#complete-billing-ontology-reference) |
+| **Table 8.3** | Revenue Cycle Summary | Ch. 8 | [§8.3 Claims Generation](#claims-generation) |
+| **Table 9.1** | Discharge Medication Reconciliation | Ch. 9 | [§9.2 Discharge Summary](#discharge-summary) |
+| **Table 10.1** | Six-Month Outcome Metrics | Ch. 10 | [§10.1 Six-Month Follow-Up](#six-month-follow-up) |
+| **Table 10.2** | OMOP Cohort Definition | Ch. 10 | [§10.2 Patient-Level Prediction](#patient-level-prediction) |
 
 ---
 
@@ -336,30 +335,30 @@ All other trademarks are the property of their respective owners.
 
 | Figure # | Title | Chapter | Section |
 |:--------:|:------|:-------:|:--------|
-| **Figure 1.1** | Patient Registration Workflow | Ch. 1 | [§1.2 EHR Data Population](#12-ehr-data-population) |
-| **Figure 1.2** | Master Patient Index Architecture | Ch. 1 | [§1.3 Standards & Ontology](#13-standards-ontology-mapping) |
-| **Figure 1.3** | FHIR Patient Resource Structure | Ch. 1 | [§1.2 EHR Data Population](#12-ehr-data-population) |
-| **Figure 1.4** | Chapter 1 Concept Mindmap | Ch. 1 | [§1.6 Chapter 1 Mindmap](#16-chapter-1-mindmap-patient-registration-workflow) |
-| **Figure 2.1** | Clinical Encounter Data Flow | Ch. 2 | [§2.2 EHR Data Population](#22-ehr-data-population) |
-| **Figure 2.2** | Documentation to Structured Data | Ch. 2 | [§2.3 Terminology Mapping](#23-clinical-terminology-mapping) |
-| **Figure 2.3** | Chapter 2 Concept Mindmap | Ch. 2 | [§2.6 Chapter 2 Mindmap](#26-chapter-2-mindmap-clinical-encounter-workflow) |
-| **Figure 3.1** | Laboratory Order Workflow | Ch. 3 | [§3.1 Clinical Narrative](#31-clinical-narrative) |
-| **Figure 3.2** | LOINC Code Structure Diagram | Ch. 3 | [§3.3 LOINC Deep Dive](#33-loinc-deep-dive) |
-| **Figure 3.3** | Chapter 3 Concept Mindmap | Ch. 3 | [§3.6 Chapter 3 Mindmap](#36-chapter-3-mindmap-diagnostic-workup-workflow) |
-| **Figure 4.1** | Referral Information Flow | Ch. 4 | [§4.2 Care Coordination](#42-care-coordination-documentation) |
-| **Figure 4.2** | Chapter 4 Concept Mindmap | Ch. 4 | [§4.4 Chapter 4 Mindmap](#44-chapter-4-mindmap-care-coordination) |
-| **Figure 5.1** | RxNorm Concept Hierarchy | Ch. 5 | [§5.2 RxNorm Hierarchy](#52-rxnorm-hierarchy) |
-| **Figure 5.2** | Medication Safety Checks | Ch. 5 | [§5.4 Pharmacovigilance](#54-pharmacovigilance-monitoring) |
-| **Figure 5.3** | Chapter 5 Concept Mindmap | Ch. 5 | [§5.5 Chapter 5 Mindmap](#55-chapter-5-mindmap-medication-management) |
-| **Figure 6.1** | CDS Alert Workflow | Ch. 6 | [§6.2 Risk Scores](#62-risk-scores-implementation) |
-| **Figure 6.2** | Risk Score Calculation Flow | Ch. 6 | [§6.2 Risk Scores](#62-risk-scores-implementation) |
-| **Figure 7.1** | Quality Measure Calculation | Ch. 7 | [§7.2 HEDIS Quality Measure](#72-hedis-quality-measure-implementation) |
-| **Figure 7.2** | Population Health Dashboard | Ch. 7 | [§7.2 HEDIS Quality Measure](#72-hedis-quality-measure-implementation) |
-| **Figure 8.1** | Revenue Cycle Flow | Ch. 8 | [§8.1 Clinical Narrative](#81-clinical-narrative) |
-| **Figure 8.2** | Claims Adjudication Process | Ch. 8 | [§8.3 Claims Generation](#83-claims-generation) |
-| **Figure 9.1** | Care Transition Workflow | Ch. 9 | [§9.1 Clinical Narrative](#91-clinical-narrative) |
-| **Figure 10.1** | Patient-Level Prediction Pipeline | Ch. 10 | [§10.2 Patient-Level Prediction](#102-patient-level-prediction) |
-| **Figure 10.2** | OHDSI Network Data Flow | Ch. 10 | [§10.3 Research Applications](#103-research-applications) |
+| **Figure 1.1** | Patient Registration Workflow | Ch. 1 | [§1.2 EHR Data Population](#ehr-data-population) |
+| **Figure 1.2** | Master Patient Index Architecture | Ch. 1 | [§1.3 Standards & Ontology](#standards-ontology-mapping) |
+| **Figure 1.3** | FHIR Patient Resource Structure | Ch. 1 | [§1.2 EHR Data Population](#ehr-data-population) |
+| **Figure 1.4** | Chapter 1 Concept Mindmap | Ch. 1 | [§1.6 Chapter 1 Mindmap](#chapter-1-mindmap-patient-registration-workflow) |
+| **Figure 2.1** | Clinical Encounter Data Flow | Ch. 2 | [§2.2 EHR Data Population](#ehr-data-population) |
+| **Figure 2.2** | Documentation to Structured Data | Ch. 2 | [§2.3 Terminology Mapping](#clinical-terminology-mapping) |
+| **Figure 2.3** | Chapter 2 Concept Mindmap | Ch. 2 | [§2.6 Chapter 2 Mindmap](#chapter-2-mindmap-clinical-encounter-workflow) |
+| **Figure 3.1** | Laboratory Order Workflow | Ch. 3 | [§3.1 Clinical Narrative](#clinical-narrative) |
+| **Figure 3.2** | LOINC Code Structure Diagram | Ch. 3 | [§3.3 LOINC Deep Dive](#loinc-deep-dive) |
+| **Figure 3.3** | Chapter 3 Concept Mindmap | Ch. 3 | [§3.6 Chapter 3 Mindmap](#chapter-3-mindmap-diagnostic-workup-workflow) |
+| **Figure 4.1** | Referral Information Flow | Ch. 4 | [§4.2 Care Coordination](#care-coordination-documentation) |
+| **Figure 4.2** | Chapter 4 Concept Mindmap | Ch. 4 | [§4.4 Chapter 4 Mindmap](#chapter-4-mindmap-care-coordination) |
+| **Figure 5.1** | RxNorm Concept Hierarchy | Ch. 5 | [§5.2 RxNorm Hierarchy](#rxnorm-hierarchy) |
+| **Figure 5.2** | Medication Safety Checks | Ch. 5 | [§5.4 Pharmacovigilance](#pharmacovigilance-monitoring) |
+| **Figure 5.3** | Chapter 5 Concept Mindmap | Ch. 5 | [§5.5 Chapter 5 Mindmap](#chapter-5-mindmap-medication-management) |
+| **Figure 6.1** | CDS Alert Workflow | Ch. 6 | [§6.2 Risk Scores](#risk-scores-implementation) |
+| **Figure 6.2** | Risk Score Calculation Flow | Ch. 6 | [§6.2 Risk Scores](#risk-scores-implementation) |
+| **Figure 7.1** | Quality Measure Calculation | Ch. 7 | [§7.2 HEDIS Quality Measure](#hedis-quality-measure-implementation) |
+| **Figure 7.2** | Population Health Dashboard | Ch. 7 | [§7.2 HEDIS Quality Measure](#hedis-quality-measure-implementation) |
+| **Figure 8.1** | Revenue Cycle Flow | Ch. 8 | [§8.1 Clinical Narrative](#clinical-narrative) |
+| **Figure 8.2** | Claims Adjudication Process | Ch. 8 | [§8.3 Claims Generation](#claims-generation) |
+| **Figure 9.1** | Care Transition Workflow | Ch. 9 | [§9.1 Clinical Narrative](#clinical-narrative) |
+| **Figure 10.1** | Patient-Level Prediction Pipeline | Ch. 10 | [§10.2 Patient-Level Prediction](#patient-level-prediction) |
+| **Figure 10.2** | OHDSI Network Data Flow | Ch. 10 | [§10.3 Research Applications](#research-applications) |
 
 ---
 
@@ -471,7 +470,7 @@ The clinical narratives will feel familiar. Focus on how daily documentation dec
 
 ### Chapter Dependencies
 
-![Chapter Dependencies Workflow](../assets/infographics/02_chapter_dependencies.svg)
+![Chapter Dependencies Workflow](../assets/infographics/02_chapter_dependencies.png)
 
 *Figure: Textbook Learning Path — showing chapter progression and dependencies*
 
@@ -1228,7 +1227,7 @@ Healthcare payers are classified using a hierarchical ontology. The infographic 
 
 <a id="figure-12-mpi-architecture"></a>
 
-![Terminology Standards and Healthcare Payers](../assets/infographics/05_terminology_standards.svg)
+![Terminology Standards and Healthcare Payers](../assets/infographics/05_terminology_standards.png)
 
 *Figure 1.2: Healthcare Terminology Standards — ICD-10-CM, CPT, LOINC structures, healthcare payer ontology, and provider order entry workflow*
 
@@ -1891,7 +1890,7 @@ if __name__ == "__main__":
 
 <a id="figure-11-registration-workflow"></a>
 
-![Patient Registration Workflow](../assets/infographics/03_patient_registration_workflow.svg)
+![Patient Registration Workflow](../assets/infographics/03_patient_registration_workflow.png)
 
 *Figure 1.1: Patient Registration Workflow — Three-track process from patient contact through identity verification to insurance check, with data systems updated and terminology standards applied*
 
@@ -3121,7 +3120,7 @@ ORDER BY noa.index_date;
 
 <a id="figure-21-encounter-flow"></a>
 
-![Clinical Encounter Workflow](../assets/infographics/04_clinical_encounter_workflow.svg)
+![Clinical Encounter Workflow](../assets/infographics/04_clinical_encounter_workflow.png)
 
 *Figure 2.1: Clinical Encounter Workflow — Maria's office visit from nursing intake through provider exam, diagnosis, CDS firing, and data generation across multiple systems*
 
@@ -3297,7 +3296,7 @@ She selected the "Atrial Fibrillation - New Diagnosis Workup" order set, which a
 
 <a id="figure-31-lab-workflow"></a>
 
-![Provider Order Entry Workflow](../assets/infographics/15_order_entry_workflow.svg)
+![Provider Order Entry Workflow](../assets/infographics/15_order_entry_workflow.png)
 
 *Figure 2.2: Provider Order Entry Workflow — From order entry through CDS screening, HL7 message transmission to lab, radiology, and pharmacy systems*
 
@@ -3515,7 +3514,7 @@ The CMP (LOINC 24323-8) is a panel code containing multiple child observations:
 
 <a id="figure-32-loinc-structure"></a>
 
-![LOINC CMP Panel Hierarchy](../assets/infographics/16_loinc_cmp_panel.svg)
+![LOINC CMP Panel Hierarchy](../assets/infographics/16_loinc_cmp_panel.png)
 
 *Figure 3.3: LOINC Comprehensive Metabolic Panel (CMP) — Hierarchical structure showing all 14 component tests with LOINC codes, grouped by clinical category*
 
@@ -3718,7 +3717,7 @@ The normal TSH is clinically significant—hyperthyroidism is a reversible cause
 
 <a id="figure-61-cds-workflow"></a>
 
-![Diagnostic Workup Flow](../assets/infographics/08_diagnostic_workup_flow.svg)
+![Diagnostic Workup Flow](../assets/infographics/08_diagnostic_workup_flow.png)
 
 *Figure 3.1: Diagnostic Workup Flow — From chief complaint through vital signs, EKG, lab tests, imaging, clinical assessment, and OMOP CDM mapping*
 
@@ -3726,7 +3725,7 @@ The normal TSH is clinically significant—hyperthyroidism is a reversible cause
 
 <a id="figure-62-risk-calculation"></a>
 
-![Lab Results Query](../assets/infographics/09_lab_results_query.svg)
+![Lab Results Query](../assets/infographics/09_lab_results_query.png)
 
 *Figure 3.2: Laboratory Results Query — OMOP CDM MEASUREMENT table query results with LOINC codes, reference ranges, and clinical interpretation*
 
@@ -4389,7 +4388,7 @@ The visit history timeline below illustrates Maria's complete care journey, incl
 
 <a id="figure-71-quality-calc"></a>
 
-![Visit History Timeline](../assets/infographics/11_visit_history_timeline.svg)
+![Visit History Timeline](../assets/infographics/11_visit_history_timeline.png)
 
 *Figure 4.1: Visit History Timeline — Maria's complete care journey from January through February 2026, showing all provider encounters, care sites, procedures, and revenue analysis*
 
@@ -4397,7 +4396,7 @@ The visit history timeline below illustrates Maria's complete care journey, incl
 
 <a id="figure-72-pop-health"></a>
 
-![Provider Panel](../assets/infographics/14_provider_panel.svg)
+![Provider Panel](../assets/infographics/14_provider_panel.png)
 
 *Figure 4.2: Provider Panel & Care Team — Interdisciplinary team including PCP, cardiologist, nurse, and pharmacist with OMOP CDM relationships and billing roles*
 
@@ -4636,7 +4635,7 @@ RxNorm provides a normalized naming system for medications. Let's examine the hi
 
 <a id="figure-51-rxnorm-hierarchy"></a>
 
-![RxNorm Medication Hierarchy](../assets/infographics/17_rxnorm_hierarchy.svg)
+![RxNorm Medication Hierarchy](../assets/infographics/17_rxnorm_hierarchy.png)
 
 *Figure 5.2: RxNorm Medication Hierarchy — Apixaban from ingredient (IN) through clinical drug (SCD) to branded drug (SBD), showing Maria's prescription (5 MG tablet)*
 
@@ -4808,7 +4807,7 @@ Maria's anticoagulation therapy requires ongoing monitoring for safety and effic
 
 <a id="figure-52-med-safety"></a>
 
-![Medication Management Workflow](../assets/infographics/07_medication_workflow.svg)
+![Medication Management Workflow](../assets/infographics/07_medication_workflow.png)
 
 *Figure 5.1: Medication Management Workflow — From prescribing through e-prescribe transmission to pharmacy dispensing, showing Maria's complete medication profile with RxNorm codes and drug interaction monitoring*
 
@@ -6348,19 +6347,19 @@ Maria's case illustrates several key principles of clinical informatics:
 
 The International Classification of Diseases, 10th Revision, Clinical Modification follows a hierarchical structure:
 
-![ICD-10-CM Code Structure](../assets/infographics/18_icd10_structure.svg)
+![ICD-10-CM Code Structure](../assets/infographics/18_icd10_structure.png)
 
 *Figure A.1: ICD-10-CM Code Structure — Character positions and hierarchy from chapter to category, with Maria's diagnosis codes (E11.65 and I48.91) as examples*
 
 ## A.2 CPT Code Categories
 
-![CPT Code Categories](../assets/infographics/19_cpt_categories.svg)
+![CPT Code Categories](../assets/infographics/19_cpt_categories.png)
 
 *Figure A.2: CPT Code Categories — Category I (E&M Services and Procedures), Category II (Performance Measures), and Category III (Emerging Technology) with Maria's billed codes highlighted*
 
 ## A.3 LOINC Code Axes
 
-![LOINC Code Axes](../assets/infographics/20_loinc_axes.svg)
+![LOINC Code Axes](../assets/infographics/20_loinc_axes.png)
 
 *Figure A.3: LOINC Six-Axis Structure — Component, Property, Time, System, Scale, and Method axes with Maria's glucose test (LOINC 2345-7) as example*
 
